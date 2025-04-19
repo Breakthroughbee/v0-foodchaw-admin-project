@@ -51,10 +51,12 @@ module.exports = {
           DEFAULT: "hsl(var(--card))",
           foreground: "hsl(var(--card-foreground))",
         },
-        orange: {
-          100: "#fff7ed",
-          500: "#f97316",
-          600: "#ea580c",
+        chart: {
+          1: "var(--chart-1)",
+          2: "var(--chart-2)",
+          3: "var(--chart-3)",
+          4: "var(--chart-4)",
+          5: "var(--chart-5)",
         },
       },
       borderRadius: {
